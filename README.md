@@ -1,9 +1,10 @@
 # NOT THE OFFICIAL ANTIPASTI REPO
 **Forked from ANTIPASTI repo (which has broken notebook tutorials):**
-**To predict binding affinity, add your `.pdb` file to notebooks/test_data/structure, then:** 
+**To predict binding affinity, add your `.pdb` file to `notebooks/test_data/structure/`, then:** 
 `cd ANTIPASTI`
 `python notebook/minimal_predict.py --test_pdb <your pdb basename>`
 **do not include `.pdb` in the `--test_pdb` argument**
+**then place the summary `.tsv` file (the bottom-most link when downloading from SabDab) in `data/`**
 
 # ANTIPASTI: interpretable prediction of antibody binding affinity exploiting Normal Modes and Deep Learning
 

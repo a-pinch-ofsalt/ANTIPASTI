@@ -1,3 +1,4 @@
+# NOT THE OFFICIAL ANTIPASTI REPO
 **Forked from ANTIPASTI repo (which has broken notebook tutorials):**
 **To predict binding affinity, add your `.pdb` file to notebooks/test_data/structure, then:** 
 `cd ANTIPASTI`
